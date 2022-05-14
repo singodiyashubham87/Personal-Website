@@ -175,6 +175,7 @@ background-image: linear-gradient(to bottom, #36AE7C, #00693d);
 }
 
 .credit{
+  padding-bottom: 15px;
   font-family: Nunito;
   font-weight: bold;
   text-align: center;
