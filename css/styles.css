@@ -56,6 +56,9 @@ hr{
   .mnm{
         visibility: hidden;
   }
+  .mickey{
+        visibility: hidden;
+  }
 }
 .mnm{
   position: absolute;
