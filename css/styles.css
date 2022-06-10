@@ -60,6 +60,7 @@ hr{
         visibility: hidden;
   }
 }
+
 .mnm{
   position: absolute;
   display: inline-block;
@@ -80,6 +81,15 @@ hr{
     top: 15px;
     padding-top: 50px;
   }
+
+.skills{
+  background-color: #A1E3D8;
+  padding : 10px 0 100px 0;
+}
+
+.skill-gist{
+  color: #383838;
+}
 
 .my-skills{
     margin: 80px auto;
@@ -162,7 +172,7 @@ background-image: linear-gradient(to bottom, #36AE7C, #00693d);
 }
 
 .bottom-container{
-  background-color: #36AE7C;
+  background-color: #A1E3D8;
   padding: 80px 0 20px 0;
 }
 
@@ -181,6 +191,11 @@ background-image: linear-gradient(to bottom, #36AE7C, #00693d);
   color: white;
 }
 
+@media (max-width:1020px) {
+  .credit{
+    font-size: 0.7rem;
+  }
+}
 .credit{
   font-family: Nunito;
   font-weight: bold;
