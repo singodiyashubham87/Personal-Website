@@ -197,7 +197,8 @@ background-image: linear-gradient(to bottom, #36AE7C, #00693d);
 }
 
 .footer-link:hover{
-  color: white;
+  font-size: 2.3rem;
+  transition: .3s ease;
 }
 
 @media (max-width:1020px) {
