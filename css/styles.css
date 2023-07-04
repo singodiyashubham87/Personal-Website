@@ -197,7 +197,7 @@ background-image: linear-gradient(to bottom, #36AE7C, #00693d);
 }
 
 .footer-link:hover{
-  font-size: 2.3rem;
+  transform: scale(1.2);
   transition: .3s ease;
 }
 
