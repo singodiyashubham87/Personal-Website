@@ -1,2 +1,2 @@
-# Mickey-s-Personal-Website
+# My-Personal-Website
 A repository for my personal website.
