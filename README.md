@@ -1,2 +1,2 @@
-# My-Personal-Portfolio-Website
+# Portfolio-Website
 A repository for my personal website.
