@@ -1,2 +1,2 @@
 # Portfolio-Website
-A repository for my personal website.
+A repository for my portfolio website.
